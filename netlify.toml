@@ -1,5 +1,4 @@
-[build] 
-  base = "tatto" 
-  command = "npm run build" 
-  command = "npm run build" 
-  publish = "tatto/build" 
+[build]
+  base = "tatto"
+  command = "npm run build"
+  publish = "tatto/build"
